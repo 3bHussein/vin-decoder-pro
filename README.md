@@ -1,7 +1,7 @@
 # VIN Decoder Pro
 
 <p align="center">
-  <img src="assets/logo.png" alt="VIN Decoder Pro Logo" width="200">
+  <img src="/screenshots/assets/logo.png" alt="VIN Decoder Pro Logo" width="200">
 </p>
 
 <h3 align="center">Professional Vehicle Identification Number Decoder</h3>
@@ -93,7 +93,7 @@ python vin_decoder_pro.py
 pip install pyinstaller
 
 # Build single executable
-pyinstaller --onefile --windowed --name "VIN_Decoder_Pro" --icon=assets/icon.ico vin_decoder_pro.py
+pyinstaller --onefile --windowed --name "VIN_Decoder_Pro" --icon=screenshots/assets/icon.ico vin_decoder_pro.py
 
 # Output will be in: dist/VIN_Decoder_Pro.exe
 ```
@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **3bHussein** — ECU Tuning Solutions
 
 - GitHub: [@3bHussein](https://github.com/3bHussein)
-- Email: your.email@example.com
+- Email: astro2338@gmail.com
 
 ---
 
