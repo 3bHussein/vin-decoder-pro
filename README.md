@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **3bHussein** — ECU Tuning Solutions
 
 - GitHub: [@3bHussein](https://github.com/3bHussein)
-
+- Email: your.email@example.com
 
 ---
 
